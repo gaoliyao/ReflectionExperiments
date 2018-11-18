@@ -9,3 +9,5 @@ Our architecture is closely designed as Adaboost. To show a possible for the com
 
 #### Links to ongoing experiments
 [Reflection on Logistic Regression on MNIST.](https://colab.research.google.com/drive/1c2f6P50Cb6KJV2c3lLNhbQwgfaBfs-50)
+  
+  - Bug exists for current version. Performance is low. 
