@@ -15,6 +15,7 @@ Our architecture is closely designed as Adaboost. To show a possible for the com
 |Decision Tree|Logistic|78.3%|86.3%|89%|30%|
 |Logistic|Logistic|87.7%|89.6%|89.6%|30%|
 |Naive Bayes|Logistic|7.3%|30%|89.6%|30%|
+|Adaboost|Logistic|82.3%|83.5%|83.5%|30%|
 
 Logistic Regression as a task classifier will fail to predict correctly. It will always predict the 0. 
 Naive Bayes also fails to perform Reflection in our case. 
