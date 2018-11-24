@@ -49,3 +49,6 @@ k = 4
 
 Logistic Regression as a task classifier will fail to predict correctly. It will always predict the 0. 
 Naive Bayes also fails to perform Reflection in our case. 
+
+
+[Reflection with CNN on Fashion-MNIST (Visualization)](https://colab.research.google.com/drive/1sdVZcvkkxETnIV_SHINc57oyEADT-_k8)
